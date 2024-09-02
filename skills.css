@@ -1,5 +1,5 @@
 header{
-    background-color: #f0f0f0;
+    background-color: white;
     width: 100%;
     position: fixed;
     display: flex;
@@ -15,7 +15,7 @@ header{
     font-size: 1.8em;
 }
 .navigation a {
-    color: #3a6cf4;
+    color: red;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
